@@ -1,5 +1,4 @@
 #07/2022 - Versão 1.0
-#Desenvolvido por Juliano Cunha - Triple S
 #Descrição: script importa automaticamente fita para o Free Pool caso esteja vazio.
 #Recomendado incluir no Schedule Task
 
